@@ -22,7 +22,7 @@ body {
 }
 
 .selectLang {
-  min-width: 280;
+  min-width: 280px;
   padding: 7px 0;
   display: flex;
   flex-wrap: wrap;
@@ -51,6 +51,7 @@ textarea {
   min-height: 350px;
   padding: 10px;
   margin: 10px 0px;
+  border: 1px solid black;
 }
 
 .btn {
